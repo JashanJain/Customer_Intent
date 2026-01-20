@@ -16,3 +16,4 @@ This project uses deep learning to classify text into different intent categorie
 
 
 Link- https://customerintent-wcta6d52zhzqx5dagxdpzx.streamlit.app/
+Dataset - https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter
