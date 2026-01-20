@@ -13,3 +13,6 @@ This project uses deep learning to classify text into different intent categorie
 - **Confidence Scores**: Displays prediction confidence for transparency
 - **Web Interface**: User-friendly interface for testing the model
 - **Preprocessing Pipeline**: Includes tokenization and label encoding
+
+
+Link- https://customerintent-wcta6d52zhzqx5dagxdpzx.streamlit.app/
